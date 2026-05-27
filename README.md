@@ -1,4 +1,4 @@
-# Sales Data Cleanup
+# Sales Data Quality Pipeline
 
 Portfolio sample for [AlexVantage](https://alexvantage.com) — a deliberately messy CRM export and a reusable Power Query pipeline organized around four data-quality pillars.
 
